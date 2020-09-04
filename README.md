@@ -6,4 +6,4 @@ You can add, edit and delete any of the tasks. Also application is checking if y
 
 Screenshot of running application:
 
-![]()
+![](todoAppScreenshot.PNG)
